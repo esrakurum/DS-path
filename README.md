@@ -8,8 +8,8 @@ This repository includes R code and the poster presentation for the project titl
 **Files in the Repository:**  
 - `ckd.rdata`: Publicly available data from CKD patients who underwent a primary renal transplantation with a graft from a deceased or living donor at the University Hospital of the Catholic University of Leuven (Belgium) between January 21, 1983, and August 16, 2000.
 - `CKD_data_description.pdf`: Detailed information on the dataset.
-- `GFR_BayesianTDM_survived.R`: R code for fitting time-dynamic models to patients with successful transplants.  
 - `GFR_BayesianTDM_failed.R`: R code for fitting time-dynamic models to patients with failed transplants.  
+- `GFR_BayesianTDM_survived.R`: R code for fitting time-dynamic models to patients with successful transplants.  
 - `Poster.pdf`: Comprehensive project overview, including results and future directions.
 
 
